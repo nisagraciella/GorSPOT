@@ -209,3 +209,5 @@ const styles = StyleSheet.create({
         marginVertical: 7,
       }
 });
+
+//petalokasiobjek.js
