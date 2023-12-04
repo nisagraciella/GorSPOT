@@ -1,0 +1,22 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "Annisa Putri Graciella",
+      "nim": "21/474713/SV/19018",
+      "kelas": "A",
+      "jeniskelamin": "perempuan",
+      "icon": "cat",
+      "color": "#363062"
+    },
+    {
+      "nama": "Annisa Putri Graciella",
+      "nim": "21/474713/SV/19018",
+      "kelas": "A",
+      "jeniskelamin": "perempuan",
+      "icon": "hippo",
+      "color": "#363062",
+      "id": 2
+    }
+  ]
+}
